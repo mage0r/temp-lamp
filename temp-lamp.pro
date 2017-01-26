@@ -1,4 +1,4 @@
-update=20/01/2017 12:11:03 AM
+update=20/01/2017 12:21:50 AM
 version=1
 last_client=kicad
 [pcbnew]
@@ -62,3 +62,4 @@ LibName30=libs/bme280
 LibName31=libs/mcp73831
 LibName32=libs/usb_5pin_shell
 LibName33=libs/spx3819m5-3
+LibName34=subs/kicad-ESP8266/ESP8266
